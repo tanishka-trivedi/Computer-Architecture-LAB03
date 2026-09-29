@@ -1,0 +1,4 @@
+Table Size,Trace,IPC,Branch Accuracy (%),MPKI,Misprediction Rate (%)
+4K,602.gcc_s,0.282009,92.2669,19.8244,7.7331
+4K,605.mcf_s,0.329188,89.9781,24.8871,10.0219
+4K,607.cactuBSSN_s,1.22473,99.4178,0.053,0.5822

@@ -1,0 +1,4 @@
+Trace,Predictor,IPC,Branch Accuracy (%),MPKI,Misprediction Rate (%)
+602.gcc_s,2-bit custom (1K),0.282009,92.2669,19.8244,7.7331
+605.mcf_s,2-bit custom (1K),0.328631,89.7756,25.3899,10.2244
+607.cactuBSSN_s,2-bit custom (1K),1.22474,99.42,0.0528,0.58
